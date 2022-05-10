@@ -1,0 +1,11 @@
+These originally came from:
+
+http://www.jbmballistics.com/ballistics/downloads/downloads.shtml
+
+Drag Functions (Olin.txt)
+
+Tabulated values of the G1, G5, G6, and GL drag (G) functions, taken from Exterior Ballistics of Small Arms Projectiles , E. D. Lowry, Research Dept., Winchester-Western Division, Olin Mathieson Chemical Corporation, May 4, 1965.
+
+(MCG1, MCG2, MCG5, MCG6, MCG7, MCG8, MCGI, MCGS)
+
+Tabulated values of CD vs. Mach Number for the G1, G2, G5, G6, G7, G8, and GI (G) functions (e.g. CD of the standard G1 bullet, etc). Additionally, I have a list of CD vs. Mach Number for a 9/16" sphere. I obtained these from BRL. Note that the mach numbers are not the same for all the tables. The first column is the mach number, the second column is the drag coefficient.

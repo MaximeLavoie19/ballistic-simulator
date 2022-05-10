@@ -1,0 +1,31 @@
+{
+  "6.5": {
+    "6.5 creedmoor": {
+      "140": {
+      "muzzle_velocity": 848.868,
+      "diameter": 6.5,
+      "ballistic_coefficient_g1": 0.685,
+      "weight_in_grams": 9.07185}
+    }
+  },
+  "308": {
+    "300 win mag": {
+      "190": {
+        "muzzle_velocity": 787.2984,
+        "diameter": 7.8232,
+        "ballistic_coefficient_g1": 0.533,
+        "weight_in_grams": 12.3118
+      }
+    }
+  },
+  "338": {
+    "338 lapua mag": {
+      "225": {
+        "muzzle_velocity": 888.1872,
+        "diameter": 8.5852,
+        "ballistic_coefficient_g1": 0.454,
+        "weight_in_grams": 14.5798
+      }
+    }
+  }
+}
